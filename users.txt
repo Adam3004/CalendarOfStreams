@@ -1,0 +1,9 @@
+cde,cde,21,VIEWER,
+mylogin,password,26,VIEWER,
+123,123,14,VIEWER,
+abc,cde,15,MOD,test
+test,test,25,STREAMER,
+streamer1,t,15,STREAMER,
+streamer 2,t,20,STREAMER,test
+login,password,48,MOD,
+tescik,tes,123,STREAMER,
